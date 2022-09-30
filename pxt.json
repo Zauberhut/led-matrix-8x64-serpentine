@@ -1,5 +1,5 @@
 {
-    "name": "LED Matrix 8*64 Serpentine",
+    "name": "LED Matrix 8x64 Serpentine",
     "description": "",
     "dependencies": {
         "core": "*",
